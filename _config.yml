@@ -1,12 +1,12 @@
 # Site settings
-title:
-email:
+title:数众互动
+email:airwe@126.com
 description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "www.socmass.io" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+twitter_username:bbihyq
+github_username:bbihyq
 
 # Build settings
 markdown: kramdown
